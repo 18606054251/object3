@@ -1,0 +1,9 @@
+You are welcome to use the 'software', this is a randomly generated four operations of the 0-10 'software'. Please enter a number, how many questions will we generate for you. For each topic you need to enter an answer, we will judge you right or wrong. Warm tip: enter the answer is an integer or score. If you want to end the training in advance please enter exit
+Number of questions:
+Blank line
+Please enter your answer:
+The correct answer is:
+That's great. You did the right thing!
+I'm sorry, you did something wrong...
+Correct number of questions:
+Wrong number:
